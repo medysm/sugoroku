@@ -1,5 +1,9 @@
 package sugoroku;
 
+/**
+ * ゴールのセル クラス
+ * @author hri
+ */
 public class GoalCell extends Cell {
 
 	public GoalCell() {
