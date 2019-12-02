@@ -39,6 +39,7 @@ public class Main {
 	 * すごろくプログラムの動作
 	 */
 	private void run() {
+		// テストコメントをつけててみるよ！わーいわーい。
 		initGame();
 		
 		// ターンを繰り返し
